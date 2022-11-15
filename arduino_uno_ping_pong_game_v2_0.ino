@@ -1,9 +1,9 @@
 /*
   Title 		    : Arduino UNO Ping Pong Game v2.0
-  Programmed by	: Sabari Kannan M
-  Place			    : Coimbatore, Tamil Nadu, India.
-  Created on	  : 22 March 2019
-  Last edit 	  : 25 March 2019
+  Programmed by   : ASHISH SRIVASTAV
+  Place	          : VARANASI India.
+  Created on	  : 22 March 2021
+  Last edit 	  : 25 APRIL 2021
 */
 
 // include the LiquidCrystal library
@@ -97,7 +97,7 @@ void setup() {
   lcd.setCursor(0, 0);
   lcd.print("Developed by:");
   lcd.setCursor(0, 1);
-  lcd.print("SABARI KANNAN M.");
+  lcd.print("ASHISH SRIVASTAV");
   delay(3000);
 }
 /*----------------------------------------end of setup function--------------------------------*/
